@@ -627,7 +627,7 @@ tr:nth-child(odd){
     min-height:100%;
 }
 #services{
-    background: url(background4.jpg) no-repeat center center fixed;
+    background: url(services.jpg) no-repeat center center fixed;
     background-size: 100% 100%;
     width: 100%;
     height: 1000px;
